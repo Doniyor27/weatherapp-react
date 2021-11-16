@@ -1,0 +1,16 @@
+.main-weather {
+  text-align: center;
+  background-color: #f75252b6;
+  width: 700px;
+  height: 350px;
+  padding: 10px;
+  margin: auto;
+  margin-top: 60px;
+  backdrop-filter: blur(3px);
+  border: 1px solid rgba(147, 255, 125, 0.575);
+  color: rgb(9, 58, 2);
+}
+
+.city-name {
+  margin-top: 40px;
+}
